@@ -2,5 +2,7 @@
 Practicing Python code
 
 #Running code
-Install python
-execute command: python mete.py
+''' Install python
+install pipenv
+pipenv install requests
+execute command: python meteor.py '''
